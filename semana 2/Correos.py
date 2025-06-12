@@ -1,0 +1,1 @@
+correo = input("Introdusca un correo")
